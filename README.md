@@ -1,6 +1,6 @@
 ### What's up 👋
 
-<p>Me chamo Matheus Reusch e tenho 19 anos.</p>
+<p>Me chamo Matheus Reusch e tenho 20 anos.</p>
 <p>Aqui você terá acesso a todos os meus projetos e atividades </br>
 desenvolvidas durante a minha trajetória até me tornar um </br>
 Desenvolvedor Web Full Stack.</p>
